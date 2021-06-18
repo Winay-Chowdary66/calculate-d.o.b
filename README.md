@@ -5,4 +5,4 @@
 <h2>Input</h2>
 <p>Your Date of Birth: <br> Your Born Year: 2000<br> Your Born Month: 06 <br> Your Born Day: 30 </p>
 <h2>Output</h2>
-<p><br> Your are <b>21 years ans 0 Months Old</b><p>
+<p><br> Your are <b>21 years and 0 Months Old</b><p>
